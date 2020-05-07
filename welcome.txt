@@ -1,6 +1,0 @@
-hello
-<<<<<<< Updated upstream
-extra added
-=======
-Namaste
->>>>>>> Stashed changes
